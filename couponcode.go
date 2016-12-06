@@ -1,4 +1,4 @@
-package couponcode // import "github.com/captaincodeman/couponcode"
+package couponcode // import "github.com/armmydev/couponcode"
 
 import (
 	"fmt"
